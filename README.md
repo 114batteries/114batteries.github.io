@@ -12,8 +12,10 @@ fortran<br>
 javaでのグラフィック表示を学んでいます。(2020/12/20)
 # 過去の作品
 ## life game
-processingでライフゲームを作成しました。<br>
+ライフゲームを作成しました。<br>
+言語:processing<br>
 [リンク](https://github.com/114batteries/114batteries.github.io/tree/main/history/lifeGame)
 ## googlemappoint
 googlemapから画像を読み取り、右クリックで点を打つことができます。ドラッグでマップをスライドします。<br>
+言語:processing<br>
 [リンク](https://github.com/114batteries/114batteries.github.io/tree/main/history/googlemappoint)
