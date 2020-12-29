@@ -28,5 +28,5 @@ javaのswtを利用してテキストエディタを作成しました。<br>
 googlemapから画像を読み取り、右クリックで点を打つことができます。ドラッグでマップをスライドします。<br>
 言語:processing<br>
 [googlemapperライブラリ](https://github.com/beattiea/TiltyIMU/tree/master/Tilty%20Software/Processing/libraries/GoogleMapper/library)を使用<br>
-[リンク](https://github.com/114batteries/114batteries.github.io/tree/main/history/googlemappoint)<br>
+[リンク](/history/googlemappoint)<br>
 *googlemap APIの仕様変更により動作しなくなった。修正予定*
