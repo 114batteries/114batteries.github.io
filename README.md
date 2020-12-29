@@ -18,7 +18,7 @@ SWTでできることはおおむね理解したので作成に移ります。�
 ###テキストエディタ
 javaのswtを利用してテキストエディタを作成しました。
 言語：java
-[リンク]
+[リンク](https://github.com/114batteries/bt114TextEditor)
 ## 過去の作品
 ### life game
 ライフゲームを作成しました。<br>
