@@ -23,7 +23,7 @@ javaのswtを利用してテキストエディタを作成しました。<br>
 ### life game
 ライフゲームを作成しました。<br>
 言語:processing<br>
-[リンク](https://github.com/114batteries/114batteries.github.io/tree/main/history/lifeGame)
+[リンク](/history/lifeGame)
 ### googlemappoint
 googlemapから画像を読み取り、右クリックで点を打つことができます。ドラッグでマップをスライドします。<br>
 言語:processing<br>
