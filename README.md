@@ -1,6 +1,7 @@
 # 114batteriesのホームページ
 ## 自己紹介
 プログラマー就職を目指して本腰を入れて学び始めた大学生(2020/12現在)です:)<br>
+twitter:https://twitter.com/114batteries
 ### 言語
 html<br>
 C++<br>
